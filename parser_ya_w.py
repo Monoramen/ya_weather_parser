@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 class Parse_weather():
     def get_data(self):
         result = requests.get('https://yandex.ru/pogoda/saint-petersburg')
