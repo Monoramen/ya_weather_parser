@@ -1,2 +1,2 @@
 # ya_weather_parser
-ss
+simple parser for yandex weather page
